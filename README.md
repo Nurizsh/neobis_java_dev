@@ -1,7 +1,7 @@
 # neobis_java_dev
 # neobis
 ### Implementation of Neobis tasks
-<img src="<img src="https://github.com/Nurizsh/neobis_java/assets/161604431/ca41ba05-c805-4c8a-a684-3f6b33538b06" width="600" height="300"><hr>" width="600" height="300"><hr>
+<img src="https://github.com/Nurizsh/neobis_java/assets/161604431/ca41ba05-c805-4c8a-a684-3f6b33538b06" width="600" height="300"><hr>
 ### Study plan:
  Week1
 * solved ps
